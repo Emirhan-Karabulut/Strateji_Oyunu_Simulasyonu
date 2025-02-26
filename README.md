@@ -1,7 +1,7 @@
 <p align="center">
   <img src="ss1.png" alt="Senaryo Seçim Ekranı" width="300px" />
   <img src="ss2.png" alt="Simülasyon Ekranı" width="300px" />
-  <img src="screenshots/ss3.png" alt="Simülasyon Sonucu Ekranı" width="300px" />
+  <img src="https://github.com/Emirhan-Karabulut/Strateji_Oyunu_Simulasyonu/tree/main/screenshots/ss3.png" alt="Simülasyon Sonucu Ekranı" width="300px" />
 </p>
 
 # Strateji Oyunu Simülasyonu

@@ -12,7 +12,6 @@
   </tr>
 </table>
 
-
 # Strateji Oyunu Simülasyonu
 
 Bu proje, **İnsan İmparatorluğu** ile **Ork Lejyonu** arasında geçen taktiksel savaşları konu alan, ızgara tabanlı bir strateji oyun simülasyonudur. Amacım; oyun dinamiklerini gerçek hayata yakın bir şekilde modelleyerek, sistem tasarımındaki yeteneklerimi ve problem çözme kabiliyetimi sergilemek. Proje, iş başvurularında yaptığım çalışmaları göstermek için hazırlanmış olup, insan kaynaklarının projeyi genel hatlarıyla kavrayabilmesi hedeflenmiştir.
@@ -30,6 +29,7 @@ Proje, birimlerin saldırı gücü, savunma, kritik vuruş oranı ve sağlık pu
 
 ## Kullanılan Teknolojiler ve Yöntemler
 
+- **Programlama Dili:** C
 - **Veri İşleme:**  
   - Yerel JSON dosyalarından manuel veri çekimi  
   - Sunucudan gerçek zamanlı veri alımı (CURL kullanılarak)

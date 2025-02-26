@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="screenshots/ss1.jpeg" alt="Senaryo Seçim Ekranı" width="200px" />
-  <img src="screenshots/ss2.jpeg" alt="Simülasyon Ekranı" width="200px" />
-  <img src="screenshots/ss3.jpeg" alt="Simülasyon Sonucu Ekranı" width="200px" />
+  <img src="screenshots/ss1.jpeg" alt="Senaryo Seçim Ekranı" width="300px" />
+  <img src="screenshots/ss2.jpeg" alt="Simülasyon Ekranı" width="300px" />
+  <img src="screenshots/ss3.jpeg" alt="Simülasyon Sonucu Ekranı" width="300px" />
 </p>
 
 # Strateji Oyunu Simülasyonu

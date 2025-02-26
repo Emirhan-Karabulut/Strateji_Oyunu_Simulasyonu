@@ -45,7 +45,7 @@ Proje, birimlerin saldırı gücü, savunma, kritik vuruş oranı ve sağlık pu
 
 - **Yaratıcı Problem Çözme:** Proje, veri işleme ve görselleştirme konularında alternatif yöntemler kullanarak dış kütüphanelere bağımlılığı azaltma yaklaşımını ortaya koyuyor.
 - **Takım Çalışması ve Sorumluluk:** Proje, takım arkadaşlarımla birlikte ortaklaşa geliştirdiğimiz bir simülasyon olarak, işbirliği ve proje yönetimi becerilerimi de yansıtıyor.
-- **Teknolojik Yetkinlik:** Kullanılan CURL ve Raylib kütüphaneleri sayesinde, gerçek zamanlı veri işleme ve oyun motoru geliştirme konusundaki yeteneklerimi sergilemekteyim.
+- **Teknolojik Yetkinlik:** Kullanılan CURL ve Raylib kütüphaneleri sayesinde, gerçek zamanlı veri işleme ve oyun geliştirme konusundaki yeteneklerimi sergilemekteyim.
 
 ## Sonuç
 

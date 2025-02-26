@@ -1,8 +1,17 @@
-<p align="center">
-  <img src="screenshots/ss1.jpeg" alt="Senaryo Seçim Ekranı" width="300px" />
-  <img src="screenshots/ss2.jpeg" alt="Simülasyon Ekranı" width="300px" />
-  <img src="screenshots/ss3.jpeg" alt="Simülasyon Sonucu Ekranı" width="300px" />
-</p>
+## Screenshots
+<table>
+  <tr>
+    <td>Senaryo Seçim Ekranı</td>
+    <td>Simülasyon Ekranı</td>
+    <td>Simülasyon Sonucu Ekranı</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/ss1.jpeg" alt="Senaryo Seçim Ekranı" width="300px"></td>
+    <td><img src="screenshots/ss2.jpeg" alt="Simülasyon Ekranı" width="300px"></td>
+    <td><img src="screenshots/ss3.jpeg" alt="Simülasyon Sonucu Ekranı" width="300px"></td>
+  </tr>
+</table>
+
 
 # Strateji Oyunu Simülasyonu
 
